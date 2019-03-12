@@ -21,6 +21,7 @@
     "chai": "^4.2.0",
     "grunt": "^1.0.3",
     "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
     "istanbul": "^0.4.5",
     "mocha": "^6.0.2"
   }
